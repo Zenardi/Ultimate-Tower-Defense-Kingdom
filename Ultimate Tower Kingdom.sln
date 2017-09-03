@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ultimate Tower Kingdom", "Ultimate Tower Kingdom.csproj", "{4F134E4B-C889-53E5-73AC-616E7CDACAD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ultimate Tower Kingdom.Editor", "Ultimate Tower Kingdom.Editor.csproj", "{789C0707-D3C6-8A57-7FD6-1FFA1D4C921B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F134E4B-C889-53E5-73AC-616E7CDACAD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F134E4B-C889-53E5-73AC-616E7CDACAD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F134E4B-C889-53E5-73AC-616E7CDACAD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F134E4B-C889-53E5-73AC-616E7CDACAD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{789C0707-D3C6-8A57-7FD6-1FFA1D4C921B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789C0707-D3C6-8A57-7FD6-1FFA1D4C921B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789C0707-D3C6-8A57-7FD6-1FFA1D4C921B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789C0707-D3C6-8A57-7FD6-1FFA1D4C921B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

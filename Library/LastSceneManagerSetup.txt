@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/TD2D/Scenes/Levels/Level1.5.unity
+  isLoaded: 1
+  isActive: 1
